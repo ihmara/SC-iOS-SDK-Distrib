@@ -1,0 +1,6 @@
+framework module scm_sdk {
+    umbrella header "scm_sdk.h"
+
+    export *
+    module * { export * }
+}
